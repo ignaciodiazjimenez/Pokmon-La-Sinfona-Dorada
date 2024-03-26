@@ -1,0 +1,8 @@
+.site-logo--set {
+	display: grid;
+
+	.wp-block-site-tagline {
+		line-height: 1.4;
+		font-size: clamp(10px, calc((100vw - 360px) * (4 / (1200 - 360)) + 10px), 14px);
+	}
+}
