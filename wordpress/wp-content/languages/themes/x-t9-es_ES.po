@@ -1,0 +1,925 @@
+# Translation of Themes - X-T9 in Spanish (Spain)
+# This file is distributed under the same license as the Themes - X-T9 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-05 08:41:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - X-T9\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "The X-T9 is designed on the premise of full site editing function, and the user can flexibly customize the header, footer, etc. This theme is mainly intended for use on business sites."
+msgstr "El X-T9 está diseñado bajo la premisa de la función de edición completa del sitio, y el usuario puede personalizar con flexibilidad la cabecera, el pie de página, etc. Este tema está pensado principalmente para su uso en sitios empresariales."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "X-T9"
+msgstr "X-T9"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "No hay ningún plugin que instalar, actualizar o activar."
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Se requiere o recomienda la instalación, actualización o activación de uno o varios plugins."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#: inc/patterns/featured/featured-post-list.php:59
+msgid "Information list"
+msgstr "Lista de información"
+
+#: inc/block-patterns.php:24
+msgctxt "Pattern Category"
+msgid "PR Contents"
+msgstr "Contenidos PR"
+
+#: inc/block-patterns.php:21
+msgctxt "Pattern Category"
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/patterns/query-subcontent.php:9
+msgid "X-T9 Query (Post List) image left small"
+msgstr "X-T9 Consulta (Lista de entradas) imagen izquierda pequeña"
+
+#: inc/patterns/query-image-left.php:9
+msgid "X-T9 Query (Post List) image left"
+msgstr "X-T9 Consulta (Lista de entradas) imagen izquierda"
+
+#: inc/patterns/sidebar/sidebar-post-category-and-archive.php:26
+msgid "Tag Cloud"
+msgstr "Nube de etiquetas"
+
+#: inc/block-patterns.php:20
+msgctxt "Pattern Category"
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: inc/patterns/sidebar/sidebar-post-category-and-archive.php:20
+msgid "Archive"
+msgstr "Archivo"
+
+#: inc/patterns/sidebar/sidebar-post-category-and-archive.php:14
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/patterns/sidebar/sidebar-post-category-and-archive.php:11
+msgid "Sidebar Category / Archive"
+msgstr "Categoría de la barra lateral / Archivo"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXS"
+msgstr "XXS"
+
+#: inc/block-styles.php:39
+msgid "XXS"
+msgstr "XXS"
+
+#: inc/patterns/featured/featured-post-list.php:45
+#: inc/patterns/post-template-image-left.php:22
+#: inc/patterns/query-image-left.php:31
+msgid "Category : "
+msgstr "Categoría: "
+
+#: inc/patterns/header/logo---nav---contact.php:25
+#: inc/patterns/header/logo---nav---contact.php:49
+#: inc/patterns/header/logo-nav---contact.php:27
+#: inc/patterns/header/logo-nav---contact.php:53
+#: inc/patterns/header/logo-title--sns-contact__nav.php:40
+#: inc/patterns/header/logo-title--sns-contact__nav.php:66
+msgid "Contact"
+msgstr "Contacto"
+
+#: inc/block-patterns.php:23
+msgctxt "Pattern Category"
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/block-patterns.php:22
+msgctxt "Pattern Category"
+msgid "Query"
+msgstr "Consulta"
+
+#: inc/block-patterns.php:18
+msgctxt "Pattern Category"
+msgid "Headers"
+msgstr "Cabeceras"
+
+#: inc/block-patterns.php:19
+msgctxt "Pattern Category"
+msgid "Footers"
+msgstr "Pies de página"
+
+#: inc/block-patterns.php:17
+msgctxt "Pattern Category"
+msgid "Featured"
+msgstr "Destacada"
+
+#: inc/patterns/featured/featured-post-list.php:12
+msgid "Post List Section"
+msgstr "Sección lista de entradas"
+
+#: inc/patterns/featured/featured-hero-media-and-text.php:9
+msgid "Hero Media and Text"
+msgstr "Hero medios y texto"
+
+#: inc/block-styles.php:107
+msgid "Fixed header"
+msgstr "Cabecera fija"
+
+#: styles/sweet.json
+msgctxt "Style variation name"
+msgid "Sweet"
+msgstr "Dulce"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Rojo"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Text Normal"
+msgstr "Texto normal"
+
+#: styles/bg-black.json
+msgctxt "Style variation name"
+msgid "BG Black"
+msgstr "BG Negro"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Header ( single )"
+msgstr "Cabecera de página (individual)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Header ( page )"
+msgstr "Cabecera de página ( página )"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Loop Archive"
+msgstr "Bucle de archivo"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr "L"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr "M"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr "S"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr "XS"
+
+#: theme.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "BG Dark ( Base Contrast )"
+msgstr "BG Oscuro ( Contraste Base )"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "BG Secondary"
+msgstr "Secundario del fondo"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "BG Primary"
+msgstr "Principal del fondo"
+
+#: inc/patterns/footer/footer-bg-secondary.php:9
+msgid "Footer BG Secondary"
+msgstr "Secundario del fondo del pie de página"
+
+#: inc/patterns/footer/footer-bg-secondary-logo-nav-float.php:9
+msgid "Footer BG Secondary Logo Nav Float"
+msgstr "Fondo de pie de página logo secundario navegación flotante"
+
+#: inc/patterns/footer/footer-bg-secondary-center-nav.php:9
+msgid "Footer BG Secondary Center Nav"
+msgstr "Fondo de pie de página secundario navegación flotante"
+
+#: inc/patterns/footer/footer-bg-secondary-3col.php:9
+msgid "Footer BG Secondary 3columns"
+msgstr "Fondo de pie de página secundario 3 columnas"
+
+#: inc/patterns/footer/footer-bg-dark-3col.php:40
+#: inc/patterns/footer/footer-bg-secondary-3col.php:40
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/patterns/featured/featured-post-list.php:20
+#: inc/patterns/footer/footer-bg-dark-3col.php:51
+#: inc/patterns/footer/footer-bg-secondary-3col.php:51
+msgid "Information"
+msgstr "Información"
+
+#: inc/patterns/layout/sidebar-right.php:24
+msgid "Side Column"
+msgstr "Columna lateral"
+
+#: inc/patterns/layout/sidebar-right.php:14
+msgid "Main Column"
+msgstr "Columna principal"
+
+#: inc/patterns/layout/sidebar-right.php:9
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single 1column"
+msgstr "Una columna"
+
+#: inc/patterns/header/logo__desc__nav__center.php:9
+msgid "Logo / Description / Nav"
+msgstr "Logotipo / Descripción / Navegación"
+
+#: inc/patterns/header/logo-title--sns-contact__nav.php:9
+msgid "Logo - Site title -- ( SNS - Contact ) / Nav"
+msgstr "Logo - Título del sitio -- ( SNS - Contacto ) / Nav"
+
+#: inc/patterns/header/logo-nav---contact.php:9
+msgid "Logo - Nav --- Contact"
+msgstr "Logo - Nav --- Contacto"
+
+#: inc/patterns/header/logo---nav---contact.php:9
+msgid "Logo --- Nav --- Contact"
+msgstr "Logo --- Nav --- Contacto"
+
+#: inc/patterns/header/desc--sns__logo--nav-contact.php:9
+msgid "Description -- SNS / Logo -- Nav - Contact"
+msgstr "Descripción -- SNS / Logo -- Nav - Contacto"
+
+#: inc/patterns/featured/featured-columns-menu.php:9
+msgid "Columns Menu Section"
+msgstr "Sección del menú columnas"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: inc/patterns/footer/footer-bg-dark-3col.php:9
+msgid "Footer BG Dark 3columns"
+msgstr "Fondo piede página oscuro 3 columnas"
+
+#: inc/block-styles.php:79
+msgid "XL"
+msgstr "XL"
+
+#: inc/block-styles.php:71
+msgid "L"
+msgstr "L"
+
+#: inc/block-styles.php:63
+msgid "M"
+msgstr "M"
+
+#: inc/block-styles.php:55
+msgid "S"
+msgstr "S"
+
+#: inc/block-styles.php:47
+msgid "XS"
+msgstr "XS"
+
+#: inc/block-styles.php:13
+msgid "Active Border Bottom"
+msgstr "Activo borde inferior"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page 2columns"
+msgstr "Página 2 columnas"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar(Post)"
+msgstr "Barra lateral(Entrada)"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Text Secondary (Dark BG)"
+msgstr "Secundario del texto (Fondo oscuro)"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr "Secundario del texto"
+
+#: inc/patterns/post-template-subcontent.php:9
+msgid "X-T9 Post subcontent"
+msgstr "X-T9 Subcontenido de entrada"
+
+#: inc/patterns/footer/footer-bg-dark.php:9
+msgid "Footer BG Dark"
+msgstr "Fondo oscuro del pie de página"
+
+#: inc/block-styles.php:97
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/block-styles.php:89
+msgid "Main layout"
+msgstr "Diseño principal"
+
+#: inc/block-styles.php:29
+msgid "Vertical with hr"
+msgstr "Vertical con hr"
+
+#: inc/block-styles.php:21
+msgid "Text Inline"
+msgstr "Texto integrado"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Origen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Activo"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Recomendados"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Obligatorio"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1243
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1042
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr "Establece la variable de configuración parent_slug en su lugar."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin necesita ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Vacío"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page for LP"
+msgstr "Página para LP"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Border Normal (Dark BG)"
+msgstr "Borde normal (fondo oscuro)"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Text Normal (Dark BG)"
+msgstr "Texto normal (fondo oscuro)"
+
+#: styles/bg-black.json
+msgctxt "Color name"
+msgid "BG Dark"
+msgstr "Fondo oscuro"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Border Normal"
+msgstr "Normal del borde"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Primary Hover"
+msgstr "Principal al pasar el cursor"
+
+#: theme.json styles/bg-black.json styles/red.json styles/sweet.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Fuente del sistema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr "XXX Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr "XX Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X small"
+msgstr "Extra pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Diminuta"
+
+#: inc/patterns/query-image-left.php:52
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/patterns/query-image-left.php:48
+msgid "Prev"
+msgstr "Anterior"
+
+#: inc/patterns/post-template-image-left.php:9
+msgid "X-T9 Post image at left"
+msgstr "X-T9 Entrada imagen a la izquierda"
+
+#: inc/patterns/hidden-404.php:10
+msgid "This page could not be found. Maybe try a search?"
+msgstr "No se ha podido encontrar esta página. ¿Quizá quieras probar una búsqueda?"
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 Content"
+msgstr "Contenido 404"
+
+#: inc/patterns/featured/featured-hero-media-and-text.php:16
+msgid "Let's embark on a new journey"
+msgstr "Emprendamos un nuevo viaje"
+
+#: inc/patterns/featured/featured-columns-menu.php:41
+#: inc/patterns/featured/featured-columns-menu.php:69
+#: inc/patterns/featured/featured-columns-menu.php:97
+#: inc/patterns/featured/featured-columns-menu.php:125
+#: inc/patterns/featured/featured-post-list.php:48
+#: inc/patterns/post-template-image-left.php:25
+#: inc/patterns/pr-contents/columns-menu.php:35
+#: inc/patterns/pr-contents/columns-menu.php:63
+#: inc/patterns/pr-contents/columns-menu.php:91
+#: inc/patterns/pr-contents/columns-menu.php:119
+#: inc/patterns/query-image-left.php:34
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/patterns/pr-contents/columns-menu.php:9
+msgid "Columns Menu"
+msgstr "Menú de columnas"
+
+#: functions.php:96
+msgid "Archives"
+msgstr "Archivo"
+
+#: functions.php:78
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "M d, A"
+
+#: functions.php:76
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "M A"
+
+#: functions.php:74
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.vektor-inc.co.jp/"
+msgstr "https://www.vektor-inc.co.jp/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Kurudrive"
+msgstr "Kurudrive"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://github.com/vektor-inc/x-t9"
+msgstr "https://github.com/vektor-inc/x-t9"
